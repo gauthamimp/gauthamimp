@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world!");
+printf("cse dsce-b");
 return 0;
 }
