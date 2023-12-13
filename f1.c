@@ -2,5 +2,6 @@
 int main()
 {
 printf("cse dsce-b");
+  printf("bye!");
 return 0;
 }
